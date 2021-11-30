@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalKendaraan", "RentalKendaraan\RentalKendaraan.csproj", "{6388770F-9EE7-43D7-8331-26514B208749}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalKendaraan", "RentalKendaraan\RentalKendaraan.csproj", "{BA1CEC66-5DEE-47F5-80F6-46DC90018FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6388770F-9EE7-43D7-8331-26514B208749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6388770F-9EE7-43D7-8331-26514B208749}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6388770F-9EE7-43D7-8331-26514B208749}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6388770F-9EE7-43D7-8331-26514B208749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1CEC66-5DEE-47F5-80F6-46DC90018FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1CEC66-5DEE-47F5-80F6-46DC90018FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1CEC66-5DEE-47F5-80F6-46DC90018FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1CEC66-5DEE-47F5-80F6-46DC90018FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {16B01CF4-0F6A-401D-8DED-8F9A98415BEE}
+		SolutionGuid = {1F0A846D-D702-49D4-BC82-7B0C32547D3C}
 	EndGlobalSection
 EndGlobal

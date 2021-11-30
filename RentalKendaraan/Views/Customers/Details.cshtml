@@ -4,40 +4,40 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h2>Details</h2>
 
 <div>
     <h4>Customer</h4>
     <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
+    <dl class="dl-horizontal">
+        <dt>
             @Html.DisplayNameFor(model => model.NamaCustomer)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.NamaCustomer)
         </dd>
-        <dt class = "col-sm-2">
+        <dt>
             @Html.DisplayNameFor(model => model.Nik)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Nik)
         </dd>
-        <dt class = "col-sm-2">
+        <dt>
             @Html.DisplayNameFor(model => model.Alamat)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Alamat)
         </dd>
-        <dt class = "col-sm-2">
+        <dt>
             @Html.DisplayNameFor(model => model.NoHp)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.NoHp)
         </dd>
-        <dt class = "col-sm-2">
+        <dt>
             @Html.DisplayNameFor(model => model.IdGenderNavigation)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.IdGenderNavigation.IdGender)
         </dd>
     </dl>

@@ -24,13 +24,7 @@ namespace RentalKendaraan.Models
         public virtual DbSet<Peminjaman> Peminjaman { get; set; }
         public virtual DbSet<Pengembalian> Pengembalian { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-
-            }
-        }
+      
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
